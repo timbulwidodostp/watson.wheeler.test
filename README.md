@@ -1,6 +1,8 @@
 # watson.wheeler.test
 Wheeler-Watson-Mardia test for circular data Use watson.wheeler.test (circular) With (In) R Software
 
+https://www.youtube.com/watch?v=1kfFIBYRteU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
